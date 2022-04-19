@@ -1,0 +1,12 @@
+p{
+
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 30%;
+    height: 0;
+
+}
