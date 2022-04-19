@@ -1,5 +1,6 @@
 p{
-
+    color: #ffeba7;
+    font-size: 24px;
 }
 
 hr{
@@ -9,4 +10,17 @@ hr{
     width: 30%;
     height: 0;
 
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: gold;
+}
+h2{
+    color: gold;
+    font-size: 48px;
 }
