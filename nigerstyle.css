@@ -1,6 +1,6 @@
 p{
     color: #ffeba7;
-    font-size: 24px;
+    font-size: 1rem;
 }
 
 hr{
@@ -9,12 +9,14 @@ hr{
     border-width: 7px;
     width: 30%;
     height: 0;
+    color: gold;
 
 }
 
 body{
     background-color: black;
     text-align: center;
+    margin: 0 50px 0 50px;
 }
 
 h1{
@@ -23,4 +25,8 @@ h1{
 h2{
     color: gold;
     font-size: 48px;
+}
+h3{
+    color: gold;
+    font-size: 1.5rem;
 }
