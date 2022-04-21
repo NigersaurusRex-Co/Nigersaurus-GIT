@@ -10,12 +10,13 @@ hr{
     width: 30%;
     height: 0;
     color: gold;
+    position: absolute;
+    left: 40px;
 
 }
 
 body{
     background-color: #1f2029;
-    text-align: center;
     margin: 0 50px 0 50px;
     background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat-back.svg');
     background-position: center;
